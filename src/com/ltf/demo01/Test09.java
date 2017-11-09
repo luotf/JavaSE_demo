@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 根据天数（46）计算周数和剩余的天数，天数是通过键盘输入。
 */

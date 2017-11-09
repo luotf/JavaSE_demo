@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	运算符
 */

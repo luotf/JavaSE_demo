@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 *定义一个五位整数，求各个位上的数的和
 */

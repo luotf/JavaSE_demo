@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	if分支语句
 	1、输入一个字符，判断是大写字母还是小写字母，输出提示信息。

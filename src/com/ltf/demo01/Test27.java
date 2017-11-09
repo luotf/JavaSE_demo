@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	for循环
 	打印输出0~200之间能被7整除但不能被4整除的所有整数；

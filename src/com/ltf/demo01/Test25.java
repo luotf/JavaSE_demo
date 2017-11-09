@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	do while循环：先执行，再判断，最少执行一次
 	2、Java阶乘求和 1!+2!+...+10!

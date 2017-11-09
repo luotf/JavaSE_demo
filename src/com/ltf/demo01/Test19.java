@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	switch分支语句
 	直接用JDK1.7的字符串条件判断，确定两个数是执行加、减、乘、除操作。

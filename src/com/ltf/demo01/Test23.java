@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	while循环：先判断，再执行，有可能执行0次
 	3、打印100以内所有的奇数，偶数和3的倍数（不包括100）

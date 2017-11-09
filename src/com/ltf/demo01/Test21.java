@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	while循环
 	1、计算1-100之间所有整数之和。5050

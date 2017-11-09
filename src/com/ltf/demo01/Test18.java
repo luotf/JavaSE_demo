@@ -1,4 +1,4 @@
-package com.ltf.class01;
+package com.ltf.demo01;
 /**
 	switch分支语句
 	输入一个月数，然后输出对应月份有多少天（不考虑闰年），将天数输出。
