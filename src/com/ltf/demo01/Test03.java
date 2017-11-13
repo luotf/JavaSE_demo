@@ -1,5 +1,5 @@
 package com.ltf.demo01;
-    
+ 
 /**
 	基本数据类型转换
 */
@@ -10,7 +10,7 @@ public class Test03{
 		short s = b;// 把一个字节赋值给一个短整型变量，自动转换
 		int i = s; //把一个短整型赋值给一个整型变量，自动转换
 		long lon = i;  //
-		
+		  
 		//char -> int 自动转换
 		char sex = '男';
 		int sex2 = sex;

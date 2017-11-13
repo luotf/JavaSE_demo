@@ -12,10 +12,13 @@ package com.ltf.demo01;
 import java.util.Scanner;
 public class Test32{
 	public static void main(String[] args){
+		System.out.print("请输入层数：");
+		int n=new Scanner(System.in).nextInt();
+		
 		//外循环控制行数
-		for(int i=1;i<=5;i++){
+		for(int i=1;i<=n;i++){
 			//内循环输出空格
-			for(int j=i;j<5;j++){
+			for(int j=i;j<n;j++){
 				System.out.print(" ");
 			}
 			//内循环输出*
